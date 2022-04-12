@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assistent2</string>
+    <string name="action_stop_title">string/action_stop_title</string>
+    <string name="action_clear_title">string/action_clear_title</string>
+    <string name="request_hint" />
+    <string name="error_something_went_wrong" />
+    <string name="error_do_not_understand" />
+    <string name="error_tts_is_not_ready" />
+    <string name="error_voice_recognition_unavailable" />
+</resources>
